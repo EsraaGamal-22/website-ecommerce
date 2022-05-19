@@ -1,0 +1,5 @@
+log url: https://waqban.com/front/assets/images/logo.png
+
+banner images:
+https://waqban.com/upload/1650372932163792839_761578994407195_5804859148357167292_n.jpg
+https://waqban.com/upload/1650372948thumbnail_BB.jpg
